@@ -4,7 +4,7 @@ Proiect pentru clasificarea imaginilor cu etichete noisy.
 
 ## Notebookuri și rezultate
 
-| Notebook | Metodă | Scor Kaggle |
+| Notebook | Scor Kaggle |
 |---|---|---:|
 | [01 — KNN](https://www.kaggle.com/code/mik33y/01-before-knn) | 0.5934 |
 | [02 — Clustering](https://www.kaggle.com/code/mik33y/02-before-clustering)  | 0.5812 |
